@@ -1,6 +1,8 @@
+pip>=25.2
 Flask==3.0.3
 pyttsx3==2.90
 spacy==3.7.2
+blis==0.7.11
 dateparser==1.2.0
 vosk==0.3.45
 pyaudio==0.2.11
